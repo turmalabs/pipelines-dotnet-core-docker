@@ -6,9 +6,6 @@
 trigger:
 - master
 
-variables:
-  - NODE_OPTIONS
-
 pool:
   vmImage: 'ubuntu-latest'
 
